@@ -1,18 +1,16 @@
 # Welcome to Amit Kubani's Github!
 
-## Skills
-
 ### Front-End:
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript<br>
 React
 
 ### Back-End:
-Node.js
-Express.js
+Node.js, Express.js<br>
 MongoDB, MySQL, MSSQL
 
 
 ## Some of my projects:
+### [NorthwindDatabaseUI](https://github.com/AgitAgit/NorthwindDataBaseUI/tree/main)
 ### [WarehouseDB](https://github.com/AgitAgit/WarehouseDataBaseUI)
 <!--
 Skills
