@@ -1,5 +1,57 @@
-## Hi there 👋
+#Welcome to Amit Kubani's Github!
 
+##Skills
+
+##Front-End:
+HTML, CSS, JavaScript
+React
+
+##Back-End:
+Node.js
+Express.js
+MongoDB, MySQL, MSSQL
+
+
+##Some of my projects:
+<a href="https://github.com/AgitAgit/WarehouseDataBaseUI">
+  <h1>WarehouseDB</h1>
+</a>
+<!--
+Skills
+TypeScript
+Testing frameworks (Jest, Mocha, Cypress)
+State management (Redux, Context API)
+CSS preprocessors (Sass, Less)
+Build tools (Webpack, Parcel)
+Back-End:
+Node.js
+Express.js
+MongoDB, PostgreSQL, MySQL
+GraphQL
+RESTful API design
+DevOps:
+Git
+Version control
+Deployment tools (Heroku, Netlify)
+CI/CD pipelines
+Projects
+Project 1
+Description:
+Technologies used:
+Link:
+Project 2
+Description:
+Technologies used:
+Link:
+Project 3
+Description:
+Technologies used:
+Link:
+Contact
+Email: [email address removed]
+LinkedIn: your_linkedin_profile
+GitHub: your_github_username
+-->
 <!--
 **AgitAgit/AgitAgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
