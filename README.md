@@ -1,20 +1,20 @@
-#Welcome to Amit Kubani's Github!
+<h1>Welcome to Amit Kubani's Github!</h1>
 
-##Skills
+<h2>Skills</h2>
 
-##Front-End:
+<h2>Front-End:</h2>
 HTML, CSS, JavaScript
 React
 
-##Back-End:
+<h2>Back-End:</h2>
 Node.js
 Express.js
 MongoDB, MySQL, MSSQL
 
 
-##Some of my projects:
+<h2>Some of my projects:</h2>
 <a href="https://github.com/AgitAgit/WarehouseDataBaseUI">
-  <h1>WarehouseDB</h1>
+  <h3>WarehouseDB</h3>
 </a>
 <!--
 Skills
