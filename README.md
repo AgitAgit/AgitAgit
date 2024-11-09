@@ -13,9 +13,9 @@ MongoDB, MySQL, MSSQL
 
 ## Some of my repos:
 ### [IITC 2024-2025](https://github.com/AgitAgit/IITC/blob/main/README.md#iitc)
-### [Story Tunes 2024](https://github.com/AgitAgit/MediaDB/blob/main/README.md#story-tunes)
-### [WarehouseDB 2024](https://github.com/AgitAgit/WarehouseDataBaseUI)
-### [NorthwindDatabaseUI 2024](https://github.com/AgitAgit/NorthwindDataBaseUI/tree/main)
+### [2024 Story Tunes](https://github.com/AgitAgit/MediaDB/blob/main/README.md#story-tunes)
+### [2024 WarehouseDB](https://github.com/AgitAgit/WarehouseDataBaseUI)
+### [2024 NorthwindDatabaseUI](https://github.com/AgitAgit/NorthwindDataBaseUI/tree/main)
 <!--
 Skills
 TypeScript
