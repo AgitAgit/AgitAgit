@@ -13,6 +13,7 @@ MongoDB, MySQL, MSSQL
 
 ## Some of my repos:
 ### [IITC 2024-2025](https://github.com/AgitAgit/IITC/blob/main/README.md#iitc)
+### [2024 Akinator](https://github.com/AgitAgit/Akinator)
 ### [2024 Story Tunes](https://github.com/AgitAgit/MediaDB/blob/main/README.md#story-tunes)
 ### [2024 WarehouseDB](https://github.com/AgitAgit/WarehouseDataBaseUI)
 ### [2024 NorthwindDatabaseUI](https://github.com/AgitAgit/NorthwindDataBaseUI/tree/main)
