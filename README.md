@@ -1,4 +1,4 @@
-# Welcome to Amit Kubani's Github!
+# Welcome to my Github!
 
 
 ### Front-End:
